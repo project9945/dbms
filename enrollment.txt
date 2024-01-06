@@ -85,7 +85,7 @@ select * from TextBook;
 
 
 insert into TextBook values
-(123456, "Chandan The Autobiography", "Pearson", "Kiran");
+(123456, "Abdul kalam The Autobiography", "Pearson", "Kiran");
 
 insert into BookAdoption values
 (001, 5, 123456);
